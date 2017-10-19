@@ -31,3 +31,4 @@ libraries
 *.iml
 /target/ssm-maven/META-INF/*.MF
 WEB-INF
+target
