@@ -13,6 +13,7 @@ public class User {
                 + password + ", roleName=" + roleName + "]";
     }
 
+
     private Integer id; // 主键
     private String userName; // 用户姓名
     private String password; // 密码

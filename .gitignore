@@ -29,3 +29,5 @@ artifacts
 libraries
 .idea
 *.iml
+/target/ssm-maven/META-INF/*.MF
+WEB-INF

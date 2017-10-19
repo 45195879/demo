@@ -8,7 +8,6 @@
     <!-- 自动扫描 -->
     <context:component-scan base-package="com.ssm.maven.dao"/>
     <context:component-scan base-package="com.ssm.maven.service"/>
-    <import resource="classpath:spring-context-mvc.xml"/>
     <!-- druid监控配置 -->
     <import resource="classpath:spring-context-druid-stat.xml"/>
     <!-- 事务管理配置 -->
