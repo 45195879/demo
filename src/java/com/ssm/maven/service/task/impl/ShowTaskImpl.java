@@ -43,7 +43,7 @@ public class ShowTaskImpl implements ShowTask {
 
 
     }
-    
+    //测试一下啊
     /*@Scheduled(cron = "0/1 * *  * * ? ")*/
     @Override
     public void showB() {
